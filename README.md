@@ -1,0 +1,2 @@
+# admLnk
+adm LNK
